@@ -69,6 +69,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
 ---
 
 ## 🎯 Featured Projects
@@ -121,6 +125,36 @@ Database Management  ████████████████░░░�
 
 ---
 
+## 🌟 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## 🎭 Fun Zone
+
+<div align="center">
+  
+### 🐍 Contribution Snake
+<img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+### 💻 Code in Action
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF"/>
+
+</div>
+
+---
+
+## 📈 Coding Activity
+
+<div align="center">
+  <img src="https://wakatime.com/share/@yourusername/7b2cb43c-1c5c-4d76-8a61-8b1e1b5f5f5e.svg" width="600" alt="Wakatime stats" />
+</div>
+
+---
+
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -129,6 +163,7 @@ Database Management  ████████████████░░░�
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saibabu16.javvaji@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 
 </div>
 
