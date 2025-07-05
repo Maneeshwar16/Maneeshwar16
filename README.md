@@ -9,15 +9,7 @@
   <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
-## 🎖️ Holopin Badges
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://holopin.me/maneeshwar16">
-    <img src="https://holopin.me/maneeshwar16" alt="@maneeshwar16's Holopin board">
-  </picture>
-</div>
-
+## 🎖️ Holopin Badge
 <div align="center">
   
 [![An image of @maneeshwar16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maneeshwar16)](https://holopin.io/@maneeshwar16)
