@@ -9,6 +9,21 @@
   <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
+## 🎖️ Holopin Badges
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://holopin.me/maneeshwar16">
+    <img src="https://holopin.me/maneeshwar16" alt="@maneeshwar16's Holopin board">
+  </picture>
+</div>
+
+<div align="center">
+  
+[![An image of @maneeshwar16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maneeshwar16)](https://holopin.io/@maneeshwar16)
+
+</div>
+
 ---
 
 ## 🚀 About Me
@@ -133,24 +148,19 @@ Database Management  ████████████████░░░�
 
 ---
 
-## 🎭 Fun Zone
+## 🎖️ Holopin Badges
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://holopin.me/maneeshwar16">
+    <img src="https://holopin.me/maneeshwar16" alt="@maneeshwar16's Holopin board">
+  </picture>
+</div>
 
 <div align="center">
   
-### 🐍 Contribution Snake
-<img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+[![An image of @maneeshwar16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maneeshwar16)](https://holopin.io/@maneeshwar16)
 
-### 💻 Code in Action
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF"/>
-
-</div>
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-  <img src="https://wakatime.com/share/@yourusername/7b2cb43c-1c5c-4d76-8a61-8b1e1b5f5f5e.svg" width="600" alt="Wakatime stats" />
 </div>
 
 ---
