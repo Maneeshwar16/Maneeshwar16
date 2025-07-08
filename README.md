@@ -19,13 +19,7 @@
 ---
 ## AWS Badges
 ## 🏆 Certifications
-
-<div align="center">
-  <a href="https://www.credly.com/badges/9eccda1f-5cfa-484e-af39-b5b0d268e7ee" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified" width="100" height="100">
-  </a>
-  <!-- Add more badges here -->
-</div>
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/9eccda1f-5cfa-484e-af39-b5b0d268e7ee)
 
 ## 🚀 About Me
 
