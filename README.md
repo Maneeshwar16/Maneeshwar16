@@ -8,6 +8,18 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub followers" />
 </div>
+---
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🎓 **Computer Science Engineering** student at **Vellore Institute of Technology-AP**
+- 🌱 Currently exploring **Advanced AI/ML** and **Full Stack Development**
+- 💻 Passionate about **Data Science**, **Android Development**, and **UI/UX Design**
+- 🎯 Always eager to learn new technologies and solve real-world problems
+- 📫 Reach me at: **saibabu16.javvaji@gmail.com**
+- 📱 Connect with me: **+91-8341186173**
 
 ## 🎖️ Holopin Badge
 <div align="center">
@@ -18,7 +30,7 @@
 
 </div>
 
-## 🏆 Badges
+## 🏆 Aws Badges
 
 <div align="center">
   
@@ -42,22 +54,24 @@
   <a href="https://www.credly.com/badges/d215fa5e-aeb8-485c-86ce-5253803dd8de/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" width="250" height="250" alt="Badge 4"/>
   </a>
+    <a href="https://www.credly.com/badges/4bd3190b-9ed1-4d14-a310-707393d66f53/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" width="250" height="250" alt="Badge 5"/>
+  </a>
+  <a href="https://www.credly.com/badges/d3bfaeae-52cd-4f65-baef-691f98cb2ee2/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="250" height="250" alt="Badge 6"/>
+  </a>
+  <a href="https://www.credly.com/badges/d215fa5e-aeb8-485c-86ce-5253803dd8de/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" width="250" height="250" alt="Badge 6"/>
+  </a>
+    <a href="https://www.credly.com/badges/5e2a6a4c-4324-4072-bba9-376e142f5836/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png" width="250" height="250" alt="Badge 6"/>
+  </a>
+
+
 </p>
 </div>
 
 
----
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🎓 **Computer Science Engineering** student at **Vellore Institute of Technology-AP**
-- 🌱 Currently exploring **Advanced AI/ML** and **Full Stack Development**
-- 💻 Passionate about **Data Science**, **Android Development**, and **UI/UX Design**
-- 🎯 Always eager to learn new technologies and solve real-world problems
-- 📫 Reach me at: **saibabu16.javvaji@gmail.com**
-- 📱 Connect with me: **+91-8341186173**
 
 <br clear="right"/>
 
