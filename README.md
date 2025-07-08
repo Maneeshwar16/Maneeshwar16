@@ -18,7 +18,7 @@
 
 </div>
 
-## 🏆 Badge
+## 🏆 Badges
 
 <div align="center">
   
@@ -29,9 +29,22 @@
   </a>
 </div>
 </div>
-<div>
-  <br></br>
+<p align="center">
+  <a href="https://www.credly.com/badges/975ad4cf-ce77-49a0-ae93-5faff63c28ee/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png" width="250" height="250" alt="Badge 2"/>
+  </a>
+  <a href="https://www.credly.com/badges/c3b84def-13e3-449e-9797-9a8f60f939c9/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="250" height="250" alt="Badge 3"/>
+  </a>
+  <a href="https://www.credly.com/badges/75dc87a6-6fa4-4e32-9d40-ab0ce0e84ae4" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png" width="250" height="250" alt="Badge 1"/>
+  </a>
+  <a href="https://www.credly.com/badges/d215fa5e-aeb8-485c-86ce-5253803dd8de/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" width="250" height="250" alt="Badge 4"/>
+  </a>
+</p>
 </div>
+
 
 ---
 
