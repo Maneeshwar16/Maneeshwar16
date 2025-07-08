@@ -17,11 +17,16 @@
 </div>
 
 ---
-## AWS Badges
-<div>
+## 🏆 Certifications
+
+<div align="center">
+  
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.2); margin: 20px 0; display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <a href="https://www.credly.com/badges/9eccda1f-5cfa-484e-af39-b5b0d268e7ee" target="_blank">
-  <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified" width="300" height="300">
-</a>
+    <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified" width="250" height="250" style="border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.2); transition: box-shadow 0.3s ease;">
+  </a>
+</div>
+
 </div>
 ## 🚀 About Me
 
